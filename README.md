@@ -38,7 +38,7 @@ The project structure is organized into several packages:
 To run the application, you need to have Java and Maven installed on your machine. Clone the repository, navigate to the project directory, and run the following command:
 
 
-The application will start on port 8080 by default. You can access the API documentation at `http://localhost:8080/swagger-ui.html`.
+The application will start on port 8080 by default. You can access the API documentation at `http://localhost:8080/api/**`.
 
 ## Contributing
 
